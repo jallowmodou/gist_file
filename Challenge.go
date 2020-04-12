@@ -42,3 +42,9 @@ func sumOfSquares(numArr []string) int {
 	return square + sumOfSquares(rest)
 
 }
+
+
+{
+  "github_url": "https://gist.github.com/jallowmodou/984f1c03ec8eaa9646c1e20633cc97ff",
+  "contact_email": "jallowmodou24@gmail.com"
+}
